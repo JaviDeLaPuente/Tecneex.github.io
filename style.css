@@ -1,0 +1,11 @@
+body{
+    -ms-overflow-style:scrollbar;overflow-y:scroll;overscroll-behavior-y:none
+}
+.errorContainer{
+    background-color:#fff;color:#0f1419;max-width:600px;margin:0 auto;padding:10%;font-family:Helvetica,sans-serif;font-size:16px
+}
+.errorButton{
+    margin:3em 0
+}
+.errorButton a{
+    background:#1da1f2;border-radius:2.5em;color:#fff;padding:1em 2em;text-decoration:none}.errorButton a:focus,.errorButton a:hover{background:#1a91da}.errorFooter{color:#657786;font-size:80%;line-height:1.5;padding:1em 0}.errorFooter a,.errorFooter a:visited{color:#657786;text-decoration:none;padding-right:1em}.errorFooter a:active,.errorFooter a:hover{text-decoration:underline}#placeholder,#react-root{display:none!important}body{background-color:#fff!important}
